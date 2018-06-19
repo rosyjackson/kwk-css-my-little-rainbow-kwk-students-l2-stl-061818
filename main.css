@@ -1,4 +1,4 @@
-div {
+div1 {
   border: 20px solid #FE2D00; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
@@ -9,7 +9,7 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-div {
+div2 {
   border: 20px solid #FE7700; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
